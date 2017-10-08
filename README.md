@@ -3,11 +3,14 @@
 A dummy module to use for testing Github Perl 6 modules and their
 interaction with the Perl 6 part of [CPAN](https://cpan.org).
 
-## REFERENCES
+## PROCEDURES
 
-See my planned module
-[Github::CPAN::Publish](https://github.com/tbrowder/Github-CPAN-Publish-Perl6)
-which will be used with this module during testing.
+..to be added..
+
+## MODULES USING THIS MODULE FOR TESTING GITHUB API
+
++ [Github::CPAN::Publish](https://github.com/tbrowder/Github-CPAN-Publish- PERL6)
++ WebServic::GitHub
 
 ## COPYRIGHT
 
