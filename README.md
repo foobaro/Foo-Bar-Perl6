@@ -1,7 +1,7 @@
 # Foo::Bar [![Build Status](https://travis-ci.org/foobaro/Foo-Bar-Perl6.svg?branch=master)](https://travis-ci.org/foobaro/Foo-Bar-Perl6)
 
 A dummy module to use for testing Github Perl 6 modules and their
-interaction with the Perl 6 part of [CPAN](https://cpan.org).
+interaction with the Perl 6 part of [CPAN](https://cpan.org) as well as with the GitHub API.
 
 ## PROCEDURES
 
