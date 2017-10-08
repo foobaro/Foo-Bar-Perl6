@@ -7,9 +7,9 @@ interaction with the Perl 6 part of [CPAN](https://cpan.org) as well as with the
 
 ..to be added..
 
-## MODULES USING THIS MODULE FOR TESTING GITHUB API
+## Modules Using this for Testing the GitHub API
 
-+ [Github::CPAN::Publish](https://github.com/tbrowder/Github-CPAN-Publish- PERL6)
++ [Github::CPAN::Publish](https://github.com/tbrowder/Github-CPAN-Publish-PERL6)
 + WebService::GitHub
 
 ## COPYRIGHT
