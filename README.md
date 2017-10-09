@@ -10,7 +10,7 @@ interaction with the Perl 6 part of [CPAN](https://cpan.org) as well as with the
 ## Modules Using this for Testing the GitHub API
 
 + [Github::CPAN::Publish](https://github.com/tbrowder/Github-CPAN-Publish-PERL6)
-+ WebService::GitHub
++ [WebService::GitHub](https://github.com/fayland/perl6-WebService-GitHub)
 
 ## COPYRIGHT
 
